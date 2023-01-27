@@ -1,0 +1,24 @@
+{
+  "name": "hogwarts-db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/D3ryan/hogwarts-db.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/D3ryan/hogwarts-db/issues"
+  },
+  "homepage": "https://github.com/D3ryan/hogwarts-db#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "json-server": "^0.17.1"
+  }
+}
